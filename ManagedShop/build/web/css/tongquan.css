@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 17, 2018, 10:37:34 AM
+    Author     : Xuan Truong PC
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.thongtincanhan{
+    display: flex;
+    margin:10px;
+    height: 0px;
+    overflow: hidden;
+/*    //justify-content: space-around;*/
+}
+
+.thongso{
+    padding: 10px;
+    width: 700px;
+    min-width: 700px;
+}
+
+.form_thongtin{
+    padding: 10px;
+    width: 650px;
+    min-width: 650px;
+}
+
+.inputtext{
+    height: 30px;
+    width: 350px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.form_thongtin form table tbody tr td,.tinhthanh form table tbody tr td,.huyen form table tbody tr td{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.form_thongtin form table tbody tr td select{
+    height: 35px;
+    width: 360px;
+}
+
+.button{
+    height: 45px!important;
+    width: 125px;
+}
+
+.thongso form table tbody tr td{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.chiphivanchuyen{
+    display: flex;
+    margin:15px;
+    height: 350px;
+    overflow: hidden;
+}
+
+.tintuc{
+    display: flex;
+    margin:10px;
+    height: 0px;
+    overflow: hidden;
+}
+
+.tinhthanh{
+    padding: 10px;
+    width: 650px;
+    min-width: 650px;
+}
+
+.huyen{
+    padding: 10px;
+    width: 650px;
+    min-width: 650px;
+}
+
+.bochon{
+    height: 40px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select option{
+    height: 40px;
+}

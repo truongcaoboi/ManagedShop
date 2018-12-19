@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 17, 2018, 10:37:23 AM
+    Author     : Xuan Truong PC
+*/
+#table_pro,#table_pro tbody tr,#table_pro tbody tr th,#table_pro tbody tr td{
+    border: 1px solid activecaption;
+    height: 30px;
+    margin: 5px;
+}
+
+#table_pro tbody tr td input{
+    width: 150px;
+    height: 20px;
+    padding: 5px;
+}
+
+#table_pro tbody tr{
+    margin-bottom: 10px;
+}
+
+.thongtin{
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+}
+
+.form{
+    width: 800px;
+    height: 900px;
+    z-index: 13;
+    background-color: #0000CC;
+    border-radius: 5px;
+    min-width: 800px;
+    min-height: 900px;
+    transform: translate(-400px,-450px);
+}
+
+.content_form{
+    height: 845px;
+    min-height: 845px;
+}
+
+.detailCom{
+    width: 500px !important;
+}

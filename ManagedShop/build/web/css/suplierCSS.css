@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 14, 2018, 3:30:28 PM
+    Author     : Xuan Truong PC
+*/
+.form{
+    height: 355px;
+    min-height: 355px;
+    width: 780px;
+    min-width: 780px;
+    transform: translate(-350px,-250px);
+}
+
+.content_form{
+    width: 760px;
+    height: 300px;
+}
+
+.content_form form table tr td input{
+    height: 30px;
+    width: 250px;
+    padding: 0;
+    padding-left: 5px;
+}
+
+.dai{
+    width: 620px !important;
+}
